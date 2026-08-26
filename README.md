@@ -29,4 +29,4 @@ Project page: https://cinema-hd-spark.softonx.xyz
 3. **Family Sharing:** Multiple profiles with individual preferences and parental controls.
 
 ## Legal
-> This project is shared as-is. All product names and logos belong to their respective owners.                   
+> This project is shared as-is. All product names and logos belong to their respective owners.                    
